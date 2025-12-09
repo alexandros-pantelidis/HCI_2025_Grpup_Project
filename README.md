@@ -1,1 +1,1 @@
-# HCI_2025_Grpup_Project
+# LUMISApp_ProjectPortfolio
